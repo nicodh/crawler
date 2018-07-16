@@ -1,5 +1,5 @@
 {
-    "name": "aoepeople/crawler",
+    "name": "nicodh/crawler",
     "type": "typo3-cms-extension",
     "description": "Crawler extension for TYPO3",
     "homepage": "https://github.com/AOEpeople/crawler",
